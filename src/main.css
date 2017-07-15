@@ -8,4 +8,12 @@
 }
 .header h1{
 	color:#fff;
+
+}
+.content{
+	padding: 0 10px;
+}
+.content img{
+	width: 100%;
+	
 }
